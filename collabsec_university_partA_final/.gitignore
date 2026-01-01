@@ -1,0 +1,4 @@
+app/data/
+app/tmp/
+__pycache__/
+*.pyc
