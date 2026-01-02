@@ -359,4 +359,4 @@ def analyze_rows(rows: List[Dict[str, Any]]) -> Dict[str, Any]:
     "total_packets": len(rows),
     "time_first": times[0] if times else "",
     "time_last": times[-1] if times else "",
-}
+} 
